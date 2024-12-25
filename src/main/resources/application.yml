@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: unique_id_generator
+    max_sequence_number: 4095
+    refresh_time: 60
+    server_id: 32
+    center_id: 32
+
+logging:
+  file:
+    path: logs/
+    name: logs/application.log
+  pattern:
+    file: "%d{yyyy-MM-dd HH:mm:ss} - %msg%n"
+
+
+

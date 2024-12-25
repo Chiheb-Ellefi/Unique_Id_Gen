@@ -1,0 +1,56 @@
+2024-12-24 18:48:53 - Starting UniqueIdGeneratorApplication using Java 21.0.5 with PID 11057 (/home/chihebellefi/Desktop/projects/spring-boot/unique_id_generator/target/classes started by chihebellefi in /home/chihebellefi/Desktop/projects/spring-boot/unique_id_generator)
+2024-12-24 18:48:53 - No active profile set, falling back to 1 default profile: "default"
+2024-12-24 18:48:53 - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-12-24 18:48:53 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-12-24 18:48:53 - Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+2024-12-24 18:48:54 - Tomcat initialized with port 8080 (http)
+2024-12-24 18:48:54 - Starting service [Tomcat]
+2024-12-24 18:48:54 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-24 18:48:54 - Initializing Spring embedded WebApplicationContext
+2024-12-24 18:48:54 - Root WebApplicationContext: initialization completed in 1157 ms
+2024-12-24 18:48:55 - Tomcat started on port 8080 (http) with context path '/'
+2024-12-24 18:48:55 - Started UniqueIdGeneratorApplication in 2.502 seconds (process running for 2.917)
+2024-12-24 18:49:03 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-12-24 18:49:03 - Initializing Servlet 'dispatcherServlet'
+2024-12-24 18:49:03 - Completed initialization in 3 ms
+2024-12-24 18:49:04 - Generated unique ID: 173506254390432321
+2024-12-24 18:49:05 - Generated unique ID: 173506254536032322
+2024-12-24 18:49:06 - Generated unique ID: 173506254623332323
+2024-12-24 18:49:07 - Generated unique ID: 173506254700432324
+2024-12-24 18:49:07 - Generated unique ID: 173506254764232325
+2024-12-24 18:49:08 - Generated unique ID: 173506254829932326
+2024-12-24 18:49:08 - Generated unique ID: 173506254880932327
+2024-12-24 18:49:09 - Generated unique ID: 173506254926832328
+2024-12-24 18:49:09 - Generated unique ID: 173506254944632329
+2024-12-24 18:49:09 - Generated unique ID: 1735062549588323210
+2024-12-24 18:49:09 - Generated unique ID: 1735062549780323211
+2024-12-24 18:49:09 - Generated unique ID: 1735062549932323212
+2024-12-24 18:49:10 - Generated unique ID: 1735062550134323213
+2024-12-24 18:49:10 - Generated unique ID: 1735062550298323214
+2024-12-24 18:49:10 - Generated unique ID: 1735062550439323215
+2024-12-24 18:49:10 - Generated unique ID: 1735062550634323216
+2024-12-24 18:49:10 - Generated unique ID: 1735062550804323217
+2024-12-24 18:49:10 - Generated unique ID: 1735062550966323218
+2024-12-24 18:49:11 - Generated unique ID: 1735062551108323219
+2024-12-24 18:49:11 - Generated unique ID: 1735062551299323220
+2024-12-24 18:49:11 - Generated unique ID: 1735062551489323221
+2024-12-24 18:49:11 - Generated unique ID: 1735062551632323222
+2024-12-24 18:49:11 - Generated unique ID: 1735062551783323223
+2024-12-24 18:49:11 - Generated unique ID: 1735062551972323224
+2024-12-24 18:49:12 - Generated unique ID: 1735062552134323225
+2024-12-24 18:49:12 - Generated unique ID: 1735062552301323226
+2024-12-24 18:49:12 - Generated unique ID: 1735062552473323227
+2024-12-24 18:49:19 - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-24 18:49:19 - Graceful shutdown complete
+2024-12-24 19:40:19 - Starting UniqueIdGeneratorApplicationTests using Java 21.0.5 with PID 12813 (started by chihebellefi in /home/chihebellefi/Desktop/projects/spring-boot/unique_id_generator)
+2024-12-24 19:40:19 - No active profile set, falling back to 1 default profile: "default"
+2024-12-24 19:40:20 - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-12-24 19:40:20 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-12-24 19:40:20 - Finished Spring Data repository scanning in 13 ms. Found 0 Redis repository interfaces.
+2024-12-24 19:40:21 - Started UniqueIdGeneratorApplicationTests in 2.239 seconds (process running for 3.247)
+2024-12-24 19:44:48 - Starting UniqueIdGeneratorApplicationTests using Java 21.0.5 with PID 13984 (started by chihebellefi in /home/chihebellefi/Desktop/projects/spring-boot/unique_id_generator)
+2024-12-24 19:44:48 - No active profile set, falling back to 1 default profile: "default"
+2024-12-24 19:44:48 - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-12-24 19:44:48 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-12-24 19:44:48 - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-12-24 19:44:50 - Started UniqueIdGeneratorApplicationTests in 2.059 seconds (process running for 2.916)
