@@ -1,10 +1,14 @@
 spring:
+  data:
+    redis:
+      host: ${REDIS_HOST:172.18.0.3}
+      port: 6379
   application:
     name: unique_id_generator
     max_sequence_number: 4095
     refresh_time: 60
-    server_id: 32
-    center_id: 32
+    machine.id: ${MACHINE_ID:32}
+    datacenter.id: ${DATACENTER_ID:32}
 
 logging:
   file:
