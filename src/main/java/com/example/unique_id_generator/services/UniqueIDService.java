@@ -9,9 +9,9 @@ import java.time.Instant;
 @Service
 public class UniqueIDService {
     private final RedisRepository redisRepository;
-    @Value("${spring.application.center_id}")
+    @Value("${spring.application.datacenter.id}")
     private String centerId;
-    @Value("${spring.application.server_id}")
+    @Value("${spring.application.machine.id}")
     private String serverId;
     @Autowired
     public UniqueIDService(RedisRepository redisRepository) {
@@ -20,7 +20,7 @@ public class UniqueIDService {
     public String generateUniqueID() {
         Long now = Instant.now().toEpochMilli();
         Long sequenceNumber= redisRepository.executeScript();
-        return     String.valueOf(now) + centerId+ serverId+String.valueOf(sequenceNumber);
+        return     now + centerId+ serverId+sequenceNumber;
 
     }
 }
